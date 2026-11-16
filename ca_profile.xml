@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CommunityApplications>
+  <Profile><![CDATA[
+NexaFlow is a French web and software development business based in Metz. We build custom applications, websites and automation tools, and develop and maintain OpenFamily, an open-source family organizer that you can host on your own server.
+
+This repository provides the OpenFamily Docker template for Unraid. OpenFamily brings together a shared calendar, tasks, shopping lists, meal planning, recipes, pantry tracking and household budgeting, with a web interface and an Android app.
+
+Project and documentation: [OpenFamily](https://github.com/NexaFlowFrance/OpenFamily).
+
+Support and bug reports: [GitHub Issues](https://github.com/NexaFlowFrance/OpenFamily/issues).
+  ]]></Profile>
+  <WebPage>https://nexaflow.fr/</WebPage>
+</CommunityApplications>
